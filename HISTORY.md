@@ -55,3 +55,5 @@
 
 ## 0.0.0 (July 13th 2013)
 - Initial release.
+
+Rachael
